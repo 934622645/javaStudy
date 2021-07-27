@@ -8,10 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ec62f37-93de-418f-ac7d-ac00cf912144" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,17 +134,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestTest.say" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="startOne" />
       <extension name="coverage">
@@ -217,7 +203,7 @@
       <workItem from="1626958523716" duration="2740000" />
       <workItem from="1627044302227" duration="2879000" />
       <workItem from="1627352416362" duration="12000" />
-      <workItem from="1627356973790" duration="2852000" />
+      <workItem from="1627356973790" duration="4833000" />
     </task>
     <task id="LOCAL-00001" summary="initialization">
       <created>1626835109220</created>
@@ -233,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626862337644</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add netty">
+      <created>1627360073211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627360073211</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +259,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialization" />
     <MESSAGE value="add aio" />
-    <option name="LAST_COMMIT_MESSAGE" value="add aio" />
+    <MESSAGE value="add netty" />
+    <option name="LAST_COMMIT_MESSAGE" value="add netty" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
